@@ -4,7 +4,7 @@ Contribution from both of members: Litao Zheng, Tianyi Xia
 
 ## Subpackage 1: memorization
 
-### Module 1: classes.py
+### classes.py
 
 - WordPair: class used to represent a pair of French and English words
 - EasyWordPair, MediumWordPair, HardWordPair: subclasses of WordPair to represent difficulty levels of word pairs, inherits from WordPair
@@ -25,7 +25,7 @@ Contribution from both of members: Litao Zheng, Tianyi Xia
 - clear_screen: function used to clear the terminal screen to hide the word pairs before the quizzing starts
 - quiz_user: function used to conduct the quiz by asking the user for the English meaning of French words and check whether the users's inputs are same as the correct answer
 
-## Module 5: main.py
+## main.py
 
 - main: the main function that used to run the whole French Learning Program including display the menu for difficulty selection, allow the user to choose words to learn and quizzes the user on those words, and tracks performance and displays a progress
 
