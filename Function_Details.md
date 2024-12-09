@@ -6,7 +6,7 @@ Contribution from both of members: Litao Zheng, Tianyi Xia
 
 ### classes.py
 
-- WordPair: class used to represent a pair of French and English words
+- WordPair: class used to represent pairs of French and English words
 - EasyWordPair, MediumWordPair, HardWordPair: subclasses of WordPair to represent difficulty levels of word pairs, inherits from WordPair
 
 ### initializer.py
